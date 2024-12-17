@@ -11,3 +11,15 @@ Purpose: Organizes pre-processed data into a star schema with fact and dimension
    Purpose: Performs exploratory data analysis (EDA) and computes descriptive statistics.
 4. Linear_Regression.py script
 Purpose: Builds Linear Regression model to predict profitability.
+To execute this project on your local machine:
+
+1. Clone this repository:
+https://github.com/VladM-Sashev/Data_Mining.git
+2. Ensure Python (3.x) is installed on your system.
+3. Install necessary libraries:
+pip install pandas numpy matplotlib scikit-learn statsmodels
+4. Run each script in order:
+   - Data_Preprocessing.py.
+   - Star_Schema.py.
+   - Descriptive_Statistics.py.
+   - Linear_Regression.py.
